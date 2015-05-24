@@ -30,7 +30,7 @@
   <scm>
     <url>http://github.com/mybatis/mybatis-aggregator</url>
     <connection>scm:git:ssh://github.com/mybatis/mybatis-aggregator.git</connection>
-    <developerConnection>scm:git:git+ssh://git@github.com/mybatis/mybatis-aggregator.git</developerConnection>
+    <developerConnection>scm:git:ssh://git@github.com/mybatis/mybatis-aggregator.git</developerConnection>
     <tag>HEAD</tag>
   </scm>
   <issueManagement>
@@ -61,7 +61,7 @@
     <!-- skip ibatis2mybatis -->
     <module>../jpetstore-6</module>
     <!-- skip logo -->
-    <!--TODO: Timeout issues <module>../memcached-cache</module> -->
+    <module>../memcached-cache</module>
     <module>../migrations</module>
     <module>../migrations-maven-plugin</module>
     <!-- skip mybatis.github.io -->
@@ -69,7 +69,7 @@
     <module>../mybatis-3</module>
     <module>../oscache-cache</module>
     <module>../parent</module>
-    <!-- JedisConnection connection issues <module>../redis-cache</module> -->
+    <module>../redis-cache</module>
     <module>../scala</module>
     <module>../spring</module>
     <module>../velocity-scripting</module>
