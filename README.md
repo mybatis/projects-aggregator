@@ -11,8 +11,10 @@ Use these JVM settings
 
 -Xmx512m -XX:MaxPermSize=128m
 
-## Current Issues ##
+Use this property to disable tests for memcached-cache and mybatis-redis
 
-Current elements skipped due to failures
-- memcached-cache
-- mybatis-redis
+noTest=true
+
+## Memcached-cache and Mybatis-redis ##
+
+These modules test runs require caching setup to exist.  The property noTest allows the aggregator to ignore this as travis-ci does.
