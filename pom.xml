@@ -54,8 +54,8 @@
     <module>../cdi</module>
     <!-- skip commiters-stuff -->
     <module>../ehcache-cache</module>
-    <module>../generator/core</module>
     <module>../freemarker-scripting</module>
+    <module>../generator/core</module>
     <module>../guice</module>
     <module>../hazelcast-cache</module>
     <!-- skip ibatis2mybatis -->
