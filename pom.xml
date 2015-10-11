@@ -67,6 +67,7 @@
     <!-- skip mybatis.github.io -->
     <module>../mybatis-2</module>
     <module>../mybatis-3</module>
+    <module>../mybatis-spring-boot</module>
     <module>../oscache-cache</module>
     <module>../parent</module>
     <module>../redis-cache</module>
