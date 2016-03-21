@@ -51,7 +51,7 @@
   <!-- Sure would be nice if git project names matched maven pom names -->
   <modules>
     <module>../base-bundle-descriptor</module>
-    <!--<module>../caffeine-cache</module>-->
+    <module>../caffeine-cache</module>
     <module>../cdi</module>
     <!-- skip commiters-stuff -->
     <module>../ehcache-cache</module>
@@ -76,7 +76,7 @@
     <module>../redis-cache</module>
     <module>../scala</module>
     <module>../spring</module>
-    <!--<module>../typehandlers-jsr310</module>-->
+    <module>../typehandlers-jsr310</module>
     <module>../velocity-scripting</module>
   </modules>
 
