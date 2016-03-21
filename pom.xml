@@ -51,6 +51,7 @@
   <!-- Sure would be nice if git project names matched maven pom names -->
   <modules>
     <module>../base-bundle-descriptor</module>
+    <!--<module>../caffeine-cache</module>-->
     <module>../cdi</module>
     <!-- skip commiters-stuff -->
     <module>../ehcache-cache</module>
@@ -59,6 +60,8 @@
     <module>../guice</module>
     <module>../hazelcast-cache</module>
     <!-- skip ibatis2mybatis -->
+    <module>../ibatis-spring</module>
+    <module>../ignite-cache</module>
     <module>../jpetstore-6</module>
     <!-- skip logo -->
     <module>../memcached-cache</module>
@@ -73,6 +76,7 @@
     <module>../redis-cache</module>
     <module>../scala</module>
     <module>../spring</module>
+    <!--<module>../typehandlers-jsr310</module>-->
     <module>../velocity-scripting</module>
   </modules>
 
