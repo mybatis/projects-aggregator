@@ -69,11 +69,12 @@
     <module>../migrations</module>
     <module>../migrations-maven-plugin</module>
     <!-- skip mybatis.github.io -->
-    <module>../mybatis-2</module>
+    <module>../mybatis-2</module> <!-- Also known as ibatis2 -->
     <module>../mybatis-3</module>
     <module>../mybatis-spring-boot</module>
     <module>../oscache-cache</module>
     <module>../parent</module>
+    <!-- skip self (aggregator) -->
     <module>../redis-cache</module>
     <module>../scala</module>
     <module>../spring</module>
