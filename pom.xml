@@ -69,7 +69,7 @@
     <module>../migrations</module>
     <module>../migrations-maven-plugin</module>
     <!-- skip mybatis.github.io -->
-    <module>../mybatis-2</module> <!-- Also known as ibatis2 -->
+    <module>../ibatis-2</module>
     <module>../mybatis-3</module>
     <module>../mybatis-dynamic-sql</module>
     <module>../mybatis-spring-boot</module>
