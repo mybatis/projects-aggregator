@@ -60,6 +60,7 @@
     <module>../generator/core</module>
     <module>../guice</module>
     <module>../hazelcast-cache</module>
+    <module>../ibatis-2</module>
     <!-- skip ibatis2mybatis -->
     <module>../ibatis-spring</module>
     <module>../ignite-cache</module>
@@ -70,7 +71,6 @@
     <module>../migrations-maven-plugin</module>
     <module>../mybatipse</module>
     <!-- skip mybatis.github.io -->
-    <module>../ibatis-2</module>
     <module>../mybatis-3</module>
     <module>../mybatis-dynamic-sql</module>
     <module>../mybatis-spring-boot</module>
