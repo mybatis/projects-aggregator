@@ -69,7 +69,7 @@
     <module>../memcached-cache</module>
     <module>../migrations</module>
     <module>../migrations-maven-plugin</module>
-    <module>../mybatipse</module>
+    <!-- skip mybatipse -->
     <!-- skip mybatis.github.io -->
     <module>../mybatis-3</module>
     <module>../mybatis-dynamic-sql</module>
