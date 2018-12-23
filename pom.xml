@@ -68,6 +68,7 @@
     <module>../memcached-cache</module>
     <module>../migrations</module>
     <module>../migrations-maven-plugin</module>
+    <module>../mybatipse</module>
     <!-- skip mybatis.github.io -->
     <module>../ibatis-2</module>
     <module>../mybatis-3</module>
@@ -79,7 +80,9 @@
     <module>../redis-cache</module>
     <module>../scala</module>
     <module>../spring</module>
+    <module>../thymeleaf-scripting</module>
     <module>../typehandlers-jsr310</module>
+    <module>../typehandlers-threeten-extra</module>
     <module>../velocity-scripting</module>
   </modules>
 
