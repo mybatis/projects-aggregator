@@ -38,8 +38,8 @@
     <url>https://github.com/mybatis/mybatis-aggregator/issues</url>
   </issueManagement>
   <ciManagement>
-    <system>Travis CI</system>
-    <url>https://travis-ci.org/mybatis/mybatis-aggregator/</url>
+    <system>GitHub Actions</system>
+    <url>https://github.com/mybatis/mybatis-aggregator/actions</url>
   </ciManagement>
   <distributionManagement>
     <site>
