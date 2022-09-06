@@ -1,6 +1,6 @@
 MyBatis Aggregator
 ==================
-[![Apache 2](http://img.shields.io/badge/license-Apache%202-red.svg)](http://www.apache.org/licenses/LICENSE-2.0)
+[![Apache 2](https://img.shields.io/badge/license-Apache%202-red.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
 ![mybatis-logo](http://mybatis.github.io/images/mybatis-logo.png)
 

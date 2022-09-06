@@ -38,13 +38,14 @@
     <url>https://github.com/mybatis/mybatis-aggregator/issues</url>
   </issueManagement>
   <ciManagement>
-    <system>Travis CI</system>
-    <url>https://travis-ci.org/mybatis/mybatis-aggregator/</url>
+    <system>GitHub Actions</system>
+    <url>https://github.com/mybatis/mybatis-aggregator/actions</url>
   </ciManagement>
   <distributionManagement>
     <site>
-      <id>github</id>
-      <url>gitsite:git@github.com/mybatis/mybatis-aggregator.git</url>
+      <id>gh-pages</id>
+      <name>Mybatis Aggregator GitHub Pages</name>
+      <url>git:ssh://git@github.com/mybatis/projects-aggregator.git?gh-pages#</url>
     </site>
   </distributionManagement>
 
