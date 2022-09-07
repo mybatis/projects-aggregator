@@ -2,7 +2,7 @@ MyBatis Aggregator
 ==================
 [![Apache 2](https://img.shields.io/badge/license-Apache%202-red.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
-![mybatis-logo](http://mybatis.github.io/images/mybatis-logo.png)
+![mybatis-logo](https://mybatis.org/images/mybatis-logo.png)
 
 MyBatis-Aggregator is the MyBatis aggregator POM which builds all MyBatis modules.
 
