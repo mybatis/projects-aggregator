@@ -59,7 +59,9 @@
     <module>../ehcache-cache</module>
     <module>../freemarker-scripting</module>
     <module>../generator/core</module>
+    <!-- Turn off generator eclipse for now as it has module issues used this way
     <module>../generator/eclipse</module>
+    -->
     <module>../guice</module>
     <module>../hazelcast-cache</module>
     <module>../ibatis-2</module>
