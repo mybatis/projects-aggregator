@@ -59,10 +59,11 @@
     <module>../ehcache-cache</module>
     <module>../freemarker-scripting</module>
     <module>../generator/core</module>
+    <module>../generator/eclipse</module>
     <module>../guice</module>
     <module>../hazelcast-cache</module>
     <module>../ibatis-2</module>
-    <!-- skip ibatis2mybatis -->
+    <module>../ibatis2mybatis</module>
     <module>../ibatis-spring</module>
     <module>../ignite-cache</module>
     <module>../jpetstore-6</module>
@@ -73,14 +74,15 @@
     <!-- skip mybatipse -->
     <!-- skip mybatis.github.io -->
     <module>../mybatis-3</module>
+    <module>../mybatis-bom</module>
     <module>../mybatis-dynamic-sql</module>
     <module>../mybatis-spring-boot</module>
-    <module>../oscache-cache</module>
     <module>../parent</module>
     <!-- skip self (aggregator) -->
     <module>../redis-cache</module>
     <module>../scala</module>
     <module>../spring</module>
+    <module>../spring-native</module>
     <module>../thymeleaf-scripting</module>
     <module>../typehandlers-jsr310</module>
     <module>../typehandlers-threeten-extra</module>
