@@ -28,7 +28,7 @@
   <url>http://www.mybatis.org/</url>
 
   <scm>
-    <url>http://github.com/mybatis/mybatis-aggregator</url>
+    <url>http://github.com/mybatis/mybatis-aggregator/</url>
     <connection>scm:git:ssh://git@github.com/mybatis/mybatis-aggregator.git</connection>
     <developerConnection>scm:git:ssh://git@github.com/mybatis/mybatis-aggregator.git</developerConnection>
     <tag>HEAD</tag>
