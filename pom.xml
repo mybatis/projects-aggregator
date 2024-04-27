@@ -86,7 +86,6 @@
     <module>../spring</module>
     <module>../spring-native</module>
     <module>../thymeleaf-scripting</module>
-    <module>../typehandlers-jsr310</module>
     <module>../typehandlers-threeten-extra</module>
     <module>../velocity-scripting</module>
   </modules>
