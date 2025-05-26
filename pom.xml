@@ -55,7 +55,6 @@
     <module>../caffeine-cache</module>
     <module>../cdi</module>
     <!-- skip commiters-stuff -->
-    <module>../couchbase-cache</module>
     <module>../ehcache-cache</module>
     <module>../freemarker-scripting</module>
     <module>../generator/core</module>
