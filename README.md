@@ -1,6 +1,6 @@
 MyBatis Aggregator
 ==================
-[![Apache 2](https://img.shields.io/badge/license-Apache%202-red.svg)](https://www.apache.org/licenses/LICENSE-2.0)
+[![License](https://img.shields.io/github/license/mybatis/projects-aggregator)](https://www.apache.org/licenses/LICENSE-2.0)
 [![Docs](https://img.shields.io/badge/docs-mybatis.org-blue?logo=github)](https://mybatis.org/projects-aggregator/)
 
 ![mybatis-logo](https://mybatis.org/images/mybatis-logo.png)
@@ -19,4 +19,4 @@ noTest=true
 
 ## Memcached-cache and Mybatis-redis ##
 
-These modules test runs require caching setup to exist.  The property noTest allows the aggregator to ignore this as travis-ci does.
+These modules test runs require caching setup to exist.  The property noTest allows the aggregator to ignore this as github actions does.
